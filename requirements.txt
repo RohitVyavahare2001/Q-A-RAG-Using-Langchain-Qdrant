@@ -3,3 +3,4 @@ langchain_community
 dotenv
 os
 sentence-transformers
+langchain_qdrant
