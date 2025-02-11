@@ -2,3 +2,4 @@ langchain_groq
 langchain_community
 dotenv
 os
+sentence-transformers
