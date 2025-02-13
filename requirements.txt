@@ -1,7 +1,8 @@
 langchain_groq
 langchain_community
-dotenv
-os
 sentence-transformers
 langchain_qdrant
 qdrant-client
+fastapi
+uvicorn
+fastapi[standard]
