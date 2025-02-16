@@ -129,5 +129,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Your Name - rohitvyavahare2001@gmail.com
+Email - rohitvyavahare2001@gmail.com
 Linkedin - https://www.linkedin.com/in/rohitvyavahare2001/
